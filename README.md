@@ -60,11 +60,11 @@ def q_learning(env,
 ```
 
 ## OUTPUT:
-![Screenshot 2024-05-04 153425](https://github.com/ManojTella/q-learning/assets/94883876/b63a3653-2137-4356-8ffd-c5f9e52b4496)
-![Screenshot 2024-05-04 153442](https://github.com/ManojTella/q-learning/assets/94883876/d79381f7-45a6-46e4-9332-b9364e1d894b)
-![Screenshot 2024-05-04 153457](https://github.com/ManojTella/q-learning/assets/94883876/0b0008ce-0530-4c73-ac11-49aafb8461b3)
-![Screenshot 2024-05-04 153520](https://github.com/ManojTella/q-learning/assets/94883876/cc79a444-d038-419d-bfc7-57417d9a77fd)
-![Screenshot 2024-05-04 153534](https://github.com/ManojTella/q-learning/assets/94883876/cf103ea9-658e-49a2-b35f-a271e9c050b3)
+![image](https://github.com/Pallavi-Raveendranadreddy/q-learning/assets/94294872/11ddb613-fa9e-468d-972f-f76c7091359a)
+![image](https://github.com/Pallavi-Raveendranadreddy/q-learning/assets/94294872/2189ecfa-ab92-40e4-ad2d-40f9d7336517)
+![image](https://github.com/Pallavi-Raveendranadreddy/q-learning/assets/94294872/ac983f88-5cc0-4292-ae1d-7aeb483f62bb)
+![image](https://github.com/Pallavi-Raveendranadreddy/q-learning/assets/94294872/fc378425-c15f-42ff-bcfe-385b09f7e83f)
+![image](https://github.com/Pallavi-Raveendranadreddy/q-learning/assets/94294872/96c858b2-9bae-48e9-b193-b7a82d4b47ef)
 
 
 ## RESULT:
